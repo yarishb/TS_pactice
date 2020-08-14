@@ -1,1 +1,1 @@
-<h1> TypeScript new features practice </h1>
+<h1> TypeScript features practice </h1>
